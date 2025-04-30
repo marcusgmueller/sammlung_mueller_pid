@@ -1,37 +1,169 @@
 {
     "77982": {
         "f54x54g1g": {
-            "target": "https://metadata.sammlung-mueller.com/?id=54397"
+            "target": "https://metadata.sammlung-mueller.com/?id=54397",
+            "properties":{
+                "inventory_number": "02480",
+                "object_name": "Köln am Rhein, St. Gereonskirche",
+                "id_number": "54397",
+                "type_of_object": "Fotografie",
+                "artist": "Neue Photogr. Gesellschaft A.G., Steglitz-Berlin",
+                "description": "20. Jh. - Fotografie, , Blick auf den Chor der Kirche und den ges. Baukomplex, vorn arrangierte Personengruppe, links Pferdekutschen",
+                "material_technique": "Silbergelatine - Baryt",
+                "dimensions": "Höhe: 246 mm, Breite: 193 mm",
+                "pid": "https://n2t.net/ark:/77982/f54x54g1g",
+                "time": "1904"
+            }
         },
         "f5154dn71": {
-            "target": "https://metadata.sammlung-mueller.com/?id=54396"
+            "target": "https://metadata.sammlung-mueller.com/?id=54396",
+            "properties":{
+                "inventory_number": "02482",
+                "object_name": "Köln am Rhein, St. Apostelkirche",
+                "id_number": "54396",
+                "type_of_object": "Fotografie",
+                "artist": "Neue Photogr. Gesellschaft A.G., Steglitz-Berlin",
+                "description": "20. Jh. - Fotografie, Blick auf Chorbereich und den ges. Baukomplex, davor 2 Pferdedroschken sowie Passanten posierend",
+                "material_technique": "Silbergelatine - Baryt",
+                "dimensions": "Höhe: 249 mm, Breite: 197 mm",
+                "pid": "https://n2t.net/ark:/77982/f5154dn71",
+                "time": "1904"
+            }
         },
         "f5wd3q122": {
-            "target": "https://metadata.sammlung-mueller.com/?id=54401"
+            "target": "https://metadata.sammlung-mueller.com/?id=54401",
+            "properties":{
+                "inventory_number": "02481",
+                "object_name": "Köln am Rhein, Altmarkt",
+                "id_number": "54401",
+                "type_of_object": "Fotografie",
+                "artist": "Neue Photogr. Gesellschaft A.G., Steglitz-Berlin",
+                "description": "20. Jh. - Fotografie, , Marktgeschehen mit vielen Besuchern auf dem Alter Markt in Köln, im Hintergrund Kölner Dom",
+                "material_technique": "Silbergelatine - Baryt",
+                "dimensions": "Höhe: 195 mm, Breite: 242 mm",
+                "pid": "https://n2t.net/ark:/77982/f5wd3q122",
+                "time": "1904"
+            }
         },
         "f5rn3068p": {
-            "target": "https://metadata.sammlung-mueller.com/?id=54398"
+            "target": "https://metadata.sammlung-mueller.com/?id=54398",
+            "properties":{
+                "inventory_number": "02483",
+                "object_name": "Köln am Rhein, Dom von Westen",
+                "id_number": "54398",
+                "type_of_object": "Fotografie",
+                "artist": "Neue Photogr. Gesellschaft A.G., Steglitz-Berlin",
+                "description": "20. Jh. - Fotografie, Blick aus der &quot;Burgmauer&quot; mit Parkanlage, dahinter elektr. Bahn, links Hotel St. Paul",
+                "material_technique": "Silbergelatine - Baryt",
+                "dimensions": "Höhe: 242 mm, Breite: 190 mm",
+                "pid": "https://n2t.net/ark:/77982/f5rn3068p",
+                "time": "1903"
+            }
         },
         "f5mw28d4j": {
-            "target": "https://metadata.sammlung-mueller.com/?id=54400"
+            "target": "https://metadata.sammlung-mueller.com/?id=54400",
+            "properties":{
+                "inventory_number": "02484",
+                "object_name": "Köln am Rhein, Hohe Strasse",
+                "id_number": "54400",
+                "type_of_object": "Fotografie",
+                "artist": "Neue Photogr. Gesellschaft A.G., Steglitz-Berlin",
+                "description": "20. Jh. - Fotografie, Blick aus Obersicht in stark begangene Geschäftsstraße",
+                "material_technique": "Silbergelatine - Baryt",
+                "dimensions": "Höhe: 244 mm, Breite: 195 mm",
+                "pid": "https://n2t.net/ark:/77982/f5mw28d4j",
+                "time": "1904"
+            }
         },
         "f5h41jm0q": {
-            "target": "https://collectors.museum-digital.de/object/56654"
+            "target": "https://collectors.museum-digital.de/object/56654",
+            "properties":{
+                "inventory_number": "07048",
+                "object_name": "Achteckiger Thurm und Friedrichsbau von der Altane aus",
+                "id_number": "56654",
+                "type_of_object": "Fotografie",
+                "artist": "Theodor Creifelds",
+                "description": "Stereo - Fotografie, Blick an Hausfassade vorbei zu achteckigem Turm",
+                "material_technique": "Silbergelatine - Albumin",
+                "dimensions": "85 mm x 175 mm",
+                "pid": "https://n2t.net/ark:/77982/f5h41jm0q",
+                "time": ""
+            }
         },
         "f5cc0ts6z": {
-            "target": "https://collectors.museum-digital.de/object/54610"
+            "target": "https://collectors.museum-digital.de/object/54610",
+            "properties":{
+                "inventory_number": "05826",
+                "object_name": "Deutz, bridge of Boats joining it to Cöln",
+                "id_number": "54610",
+                "type_of_object": "Fotografie",
+                "artist": "Theodor Creifelds",
+                "description": "CC - Fotografie, Schiffsbrücke von Deutz nach Köln",
+                "material_technique": "Silbergelatine - Albumin",
+                "dimensions": "109 mm x 159 mm",
+                "pid": "https://n2t.net/ark:/77982/f5cc0ts6z",
+                "time": "16.11.1886"
+            }
         },
         "f57p8tc50": {
-            "target": "https://collectors.museum-digital.de/object/54602"
+            "target": "https://collectors.museum-digital.de/object/54602",
+            "properties":{
+                "inventory_number": "05276",
+                "object_name": "Domkloster, Cöln",
+                "id_number": "54602",
+                "type_of_object": "Fotografie",
+                "artist": "Theodor Creifelds",
+                "description": "CC - Fotografie, , Kölner Dom von Südosten",
+                "material_technique": "Silbergelatine - Albumin",
+                "dimensions": "109 mm x 166 mm",
+                "pid": "https://n2t.net/ark:/77982/f57p8tc50",
+                "time": ""
+            }
         },
         "f53x83k17": {
-            "target": "https://collectors.museum-digital.de/object/54601"
+            "target": "https://collectors.museum-digital.de/object/54601",
+            "properties":{
+                "inventory_number": "05277",
+                "object_name": "Deutz &amp; bridge of Boats joining it to Cöln",
+                "id_number": "54601",
+                "type_of_object": "Fotografie",
+                "artist": "Theodor Creifelds",
+                "description": "CC - Fotografie, Kölner Dom von Westen",
+                "material_technique": "Silbergelatine - Albumin",
+                "dimensions": "166 mm x 107 mm",
+                "pid": "https://n2t.net/ark:/77982/f53x83k17",
+                "time": ""
+            }
         },
         "f5057cr7s": {
-            "target": "https://collectors.museum-digital.de/object/54540"
+            "target": "https://collectors.museum-digital.de/object/54540",
+            "properties":{
+                "inventory_number": "05813",
+                "object_name": "Bonn",
+                "id_number": "54540",
+                "type_of_object": "Fotografie",
+                "artist": "Theodor Creifelds",
+                "description": "CC - Fotografie, Blick von Beuel aus über den Rhein mit ankernden Schiffen nach Bonn",
+                "material_technique": "Silbergelatine - Albumin",
+                "dimensions": "108 mm x 168 mm",
+                "pid": "https://n2t.net/ark:/77982/f5057cr7s",
+                "time": ""
+            }
         },
         "f5vd6p42t": {
-            "target": "https://collectors.museum-digital.de/object/54535"
+            "target": "https://collectors.museum-digital.de/object/54535",
+            "properties":{
+                "inventory_number": "05043",
+                "object_name": "Kaiserbesuch ?",
+                "id_number": "54535",
+                "type_of_object": "Fotografie",
+                "artist": "Theodor Creifelds, Wilhelm II. (Kaiser)",
+                "description": "CC - Fotografie, Festzug mit Pferden durch von Zuschauern gesäumte Straße vor dem Hahnentor am Rudolphplatz in Köln (Kaiserbesuch ?)",
+                "material_technique": "Silbergelatine - Albumin",
+                "dimensions": "139 mm x 214 mm",
+                "pid": "https://n2t.net/ark:/77982/f5vd6p42t",
+                "time": "1900-1990er Jahre, 1900-1918"
+            }
         },
         "f5080x730": {
             "target": "https://metadata.sammlung-mueller.com/?id=51201",
